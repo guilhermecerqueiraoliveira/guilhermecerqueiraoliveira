@@ -53,5 +53,5 @@ visualizações criado por https://gprm.itsvg.in
 
 <!-- Links -->
 [cs50]:https://cs50.harvard.edu/x/2024/
-[guisite]:https://guilhermecerqueiraoliveira.github.io/
+[guisite]:https://guidev.site/
 [mitfire]:https://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/
