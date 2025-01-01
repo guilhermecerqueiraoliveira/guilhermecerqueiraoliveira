@@ -10,14 +10,11 @@ Veja https://www.markdownguide.org/about/#contributing para mais detalhes.
 [![Stack Overflow Badge](https://img.shields.io/badge/-overflow-F4E5B9?style=flat-square&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/28899914/gui)](https://stackoverflow.com/users/28899914/gui)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-F4E5B9?style=flat-square&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/guilhermecerqueiradeoliveira)](https://www.linkedin.com/in/guilhermecerqueiradeoliveira)
 [![YouTube Badge](https://img.shields.io/badge/-youtube-F4E5B9?style=flat-square&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/@guilhermebot9129/)](https://www.youtube.com/@guilhermebot9129/)
-[![Desenvolvido por Güi](https://img.shields.io/badge/Desenvolvido%20por%20Güi-F4E5B9?style=flat-square&logo=code&logoColor=black)](https://www.guidev.site)
-
-
-
-
-
 
 <!--
+
+[![Desenvolvido por Güi](https://img.shields.io/badge/Desenvolvido%20por%20Güi-F4E5B9?style=flat-square&logo=code&logoColor=black)](https://www.guidev.site)
+
 [![Instagram Badge](https://img.shields.io/badge/-instagram-F4E5B9?style=flat-square&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/seuperfil)](https://www.instagram.com/seuperfil)
 -->
 <!--
