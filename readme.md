@@ -24,9 +24,11 @@ Veja https://www.markdownguide.org/about/#contributing para mais detalhes.
 [![Discord Badge](https://img.shields.io/badge/-Discord-F4E5B9?style=flat-square&logo=discord&logoColor=5865F2&link=https://discord.com/invite/XXXXXX)](https://discord.com/invite/XXXXXX)
 -->
 Meu nome é José Guilherme e moro no interior de **Minas Gerais**.
+Sou um entusiasta de todas as tecnologias.
 Estudando Ciência da Computação pela Doctum.
 Participante do Computer Science Harvard [CS50][cs50].
-Sou um entusiasta de todas as tecnologias. Veja meu [portifólio][guisite].
+Desenvolvendo projetos como [PyPrivacy][pyprivacyrepo] e [Eucapy][eucapyrepo] saiba mais no meu [portifólio][guisite].
+
 
 <!--
 
@@ -59,3 +61,5 @@ visualizações criado por https://gprm.itsvg.in
 [cs50]:https://cs50.harvard.edu/x/2024/
 [guisite]:https://guidev.site/
 [mitfire]:https://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/
+[pyprivacyrepo]:https://github.com/guilhermecerqueiraoliveira/PyPrivacy
+[eucapyrepo]:https://github.com/eucapy/
