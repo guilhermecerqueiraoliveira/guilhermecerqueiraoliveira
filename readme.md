@@ -29,6 +29,9 @@ Estudando Ciência da Computação pela Doctum.
 Participante do Computer Science Harvard [CS50][cs50].
 Desenvolvendo projetos como [PyPrivacy][pyprivacyrepo] e [Eucapy][eucapyrepo] saiba mais no meu [portifólio][guisite].
 
+<p align="right">
+    <img src="src/img/qr-code.png" alt="QR Code">
+</p>
 
 <!--
 
