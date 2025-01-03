@@ -25,7 +25,7 @@ Veja https://www.markdownguide.org/about/#contributing para mais detalhes.
 -->
 Meu nome é José Guilherme e moro no interior de **Minas Gerais**.
 Sou um entusiasta de todas as tecnologias.
-Estudando Ciência da Computação pela Doctum.
+Estudando Análise de Desenvolvimento (ADS) pela Doctum.
 Participante do Computer Science Harvard [CS50][cs50].
 Desenvolvendo projetos como [PyPrivacy][pyprivacyrepo] e [Eucapy][eucapyrepo] saiba mais no meu [portifólio][guisite].
 
